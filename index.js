@@ -1,3 +1,3 @@
-describe function shout(string) {
+shout(string) {
   return string.toUpperCase()
 }
