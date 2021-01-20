@@ -7,7 +7,7 @@ describe('shout(string)', function() {
     }
 
 describe('whisper(string)', function() {
-  it('takes a string argument and logs it in all caps using console.log') function() {
+  it('takes a string argument and logs it in all caps using console.log', function() {
     expect(whisper ('HELLO')).toEqual('hello') })
 })
 function shout (aWord) {
